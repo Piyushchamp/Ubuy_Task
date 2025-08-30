@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Ubuy_Task/static/css/main.a5aac58a.css",
+    "main.js": "/Ubuy_Task/static/js/main.f2d79a52.js",
+    "static/js/900.4f1b2ac3.chunk.js": "/Ubuy_Task/static/js/900.4f1b2ac3.chunk.js",
+    "index.html": "/Ubuy_Task/index.html",
+    "main.a5aac58a.css.map": "/Ubuy_Task/static/css/main.a5aac58a.css.map",
+    "main.f2d79a52.js.map": "/Ubuy_Task/static/js/main.f2d79a52.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5aac58a.css",
+    "static/js/main.f2d79a52.js"
+  ]
+}
